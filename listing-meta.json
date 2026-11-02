@@ -1,0 +1,20 @@
+{
+  "slug": "mcp-deep-research",
+  "repo": "mcp-deep-research-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/mcp-deep-research-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "deep",
+    "research"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/mcp-deep-research"
+}
